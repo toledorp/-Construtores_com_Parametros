@@ -1,4 +1,4 @@
-# Construtores com Paramteros
+# Construtores com Parametros
 
 Esta pasta contem um exercicio de Construtores com Parametros em Java.
 
